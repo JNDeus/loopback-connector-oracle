@@ -22,7 +22,7 @@
     "async": "^2.1.5",
     "debug": "^4.0.1",
     "loopback-connector": "^4.0.0",
-    "oracledb": "https://github.com/oracle/node-oracledb/archive/v3.1.1.tar.gz",
+    "oracledb": "https://github.com/oracle/node-oracledb/releases/download/v3.1.1/oracledb-src-3.1.1.tgz",
     "strong-globalize": "^4.1.2"
   },
   "devDependencies": {
